@@ -1,0 +1,10 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =8
+let g:netrw_dirhist_1='/Users/Brian/Documents'
+let g:netrw_dirhist_2='/Applications/StarCraft/StarCraft.app/Contents/Resources/zh-Hans.lproj'
+let g:netrw_dirhist_3='/Users/Brian/Documents/Programs/ArielNa/output'
+let g:netrw_dirhist_4='/Users/Brian/AndroidStudioProjects/AndroidChess/app/src/main/java/com/example/brian/androidchess/controllers/states'
+let g:netrw_dirhist_5='/Users/Brian/Desktop/Cows'
+let g:netrw_dirhist_6='/Users/Brian/AndroidStudioProjects/ChineseChess'
+let g:netrw_dirhist_7='/Users/Brian/Desktop/go'
+let g:netrw_dirhist_8='/Users/Brian/Desktop'
